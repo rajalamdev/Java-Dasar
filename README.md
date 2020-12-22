@@ -11,4 +11,4 @@ Java Basic : Menjelaskan mengenai dasar-dasar bahasa Java, seperti:
 Source: 
 
 
-[![Watch the video](https://yt3.ggpht.com/ytc/AAUvwnhVniQ2N_JTlURMd1WmEm_VbsjyzV_PjAiy-q-rZA=s900-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/watch?v=uHyfQV0kbgo&list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=uHyfQV0kbgo&list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F "Video Title")
