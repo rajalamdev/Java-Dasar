@@ -14,6 +14,6 @@ https://www.youtube.com/watch?v=uHyfQV0kbgo&list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDf
 
 
 Source: 
-
 KELAS TERBUKA
+
 [<img src="https://yt3.ggpht.com/ytc/AAUvwnhVniQ2N_JTlURMd1WmEm_VbsjyzV_PjAiy-q-rZA=s900-c-k-c0x00ffffff-no-rj" width="15%">](https://www.youtube.com/watch?v=uHyfQV0kbgo&list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F)
