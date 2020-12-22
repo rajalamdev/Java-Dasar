@@ -13,8 +13,6 @@ Playlist Java Dasar:
 https://www.youtube.com/watch?v=uHyfQV0kbgo&list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F
 
 
-
-
 Source: 
 
 KELAS TERBUKA
